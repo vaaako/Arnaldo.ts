@@ -1,0 +1,1936 @@
+
+- Loaded 7 Commands -
+
+1. ready Ready
+2. messageCreate Ready
+
+- Loaded 2 Events -
+
+Logging into the BOT...
+
+-> Connected to MongoDB!
+-> Logged in as Testes-JS
+msg cala a boca ai
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 975192003912536114
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975192185697873920
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 975192185697873920
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 975192003912536114
+Error -> Unable to send Universal Message to 953060226490314822
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 975192185697873920
+Error -> Unable to send Universal Message to 975192003912536114
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 975192003912536114
+Error -> Unable to send Universal Message to 975192185697873920
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975197432155635713
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 975192003912536114
+Error -> Unable to send Universal Message to 975192185697873920
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975192185697873920
+Error -> Unable to send Universal Message to 975192003912536114
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+Error -> Unable to send Universal Message to 953060226490314822
+Error -> Unable to send Universal Message to 975197432155635713
+Error -> Unable to send Universal Message to 975192185697873920
+Error -> Unable to send Universal Message to 975192003912536114
+msg 
+[
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa181"),
+    guildId: '720756261808898059',
+    announcementChannel: '975167909968109639',
+    universalChat: '975182220237099049',
+    dinosaurs: [ [Object] ],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa184"),
+    guildId: '809236518526517318',
+    announcementChannel: '809845076791656478',
+    universalChat: '975192003912536114',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa187"),
+    guildId: '960626949305270292',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18a"),
+    guildId: '869595077117374524',
+    announcementChannel: '960248669272145990',
+    universalChat: '975197432155635713',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa18d"),
+    guildId: '803675033351618612',
+    announcementChannel: '862363489481785404',
+    universalChat: '975192185697873920',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa190"),
+    guildId: '922293054671568956',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4ebc060556377fa193"),
+    guildId: '864172029719609384',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa196"),
+    guildId: '927950495719514192',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa199"),
+    guildId: '945778905325895690',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa19f"),
+    guildId: '951600132607070248',
+    announcementChannel: null,
+    universalChat: '953060226490314822',
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a5"),
+    guildId: '903290524876800080',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1a8"),
+    guildId: '333949691962195969',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  },
+  {
+    timeout: { dino: [Object] },
+    _id: new ObjectId("63325a4fbc060556377fa1ab"),
+    guildId: '713449652560592937',
+    announcementChannel: null,
+    universalChat: null,
+    dinosaurs: [],
+    __v: 1
+  }
+]
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa181"),
+  guildId: '720756261808898059',
+  announcementChannel: '975167909968109639',
+  universalChat: '975182220237099049',
+  dinosaurs: [ { userId: '703785252463837234', ownedDinos: [Array] } ],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa184"),
+  guildId: '809236518526517318',
+  announcementChannel: '809845076791656478',
+  universalChat: '975192003912536114',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa187"),
+  guildId: '960626949305270292',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18a"),
+  guildId: '869595077117374524',
+  announcementChannel: '960248669272145990',
+  universalChat: '975197432155635713',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa18d"),
+  guildId: '803675033351618612',
+  announcementChannel: '862363489481785404',
+  universalChat: '975192185697873920',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa190"),
+  guildId: '922293054671568956',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4ebc060556377fa193"),
+  guildId: '864172029719609384',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa196"),
+  guildId: '927950495719514192',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa199"),
+  guildId: '945778905325895690',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa19f"),
+  guildId: '951600132607070248',
+  announcementChannel: null,
+  universalChat: '953060226490314822',
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a5"),
+  guildId: '903290524876800080',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1a8"),
+  guildId: '333949691962195969',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}
+{
+  timeout: { dino: { rolls: [], marryTimeout: [] } },
+  _id: new ObjectId("63325a4fbc060556377fa1ab"),
+  guildId: '713449652560592937',
+  announcementChannel: null,
+  universalChat: null,
+  dinosaurs: [],
+  __v: 1
+}

@@ -1,0 +1,5 @@
+node_modules/
+src/Config/.env
+src/Config/Config.ts
+package-lock.json
+*.zip
